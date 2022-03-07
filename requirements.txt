@@ -1,0 +1,11 @@
+pandas
+pytz
+
+notebook
+jupyterlab
+
+requests
+BeautifulSoup4
+selenium
+
+oauth2client
