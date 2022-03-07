@@ -1,8 +1,9 @@
-pandas
-pytz
-
 notebook
 jupyterlab
+
+pandas
+pytz
+Pillow
 
 requests
 BeautifulSoup4
